@@ -12,3 +12,5 @@ This repository was created during Git course practice.
 - Working with README
 
 Author: Alina Kisova
+
+This change was made in second-branch.
